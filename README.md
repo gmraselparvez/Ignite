@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="docs/assets/app-icon.png" width="120" alt="Ignite icon" />
+<img src="docs/assets/Ignite.jpg" />
 
 # Ignite
 
