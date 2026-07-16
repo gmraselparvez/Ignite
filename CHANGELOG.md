@@ -4,7 +4,7 @@ All notable changes to Ignite. This project loosely follows [Semantic Versioning
 
 ## [3.4] — 2026-07-06
 - Overview stat cards now have a fixed height, so cards with two-line titles no longer change height when the window is resized.
-
+  
 ## [3.3]
 - Widened the menu-bar popover so task names have more room before truncating.
 
