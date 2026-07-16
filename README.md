@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/assets/Ignite.jpg" />
+<img src="docs/assets/Ignite.png" />
 
 # Ignite
 
